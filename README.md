@@ -40,7 +40,14 @@ Wireframes focus on the placement of elements, navigation flow, and overall user
     High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
 
 # Wireframmming Tools
+1. Figma: A cloud-based UI/UX design tool that allows real-time collaboration.
+2. Sketch: A digital design tool that's popular among UI/UX designers.
+3. Adobe XD: A user experience design software that allows designers to create and prototype digital products.
+4. InVision: A digital product design platform that offers wireframing, prototyping, and design systems tools.
+5. Lucidchart: A diagramming and design tool that allows users to create wireframes, flowcharts, and mind maps.
+
 Recommended Tool: Figma is a powerful tool for wireframing, with its collaborative features and design capabilities.
+
 
 # Benefits of wireframing from a software development perspective.
 ## Improves Communication
